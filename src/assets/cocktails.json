@@ -1,0 +1,34 @@
+[
+
+
+     {
+        "name": "Sex on the beach",
+        "price": 10,
+        "img": "https://assets.afcdn.com/recipe/20221102/137001_w350h250c1cx1060cy707.jpg"
+    },
+   {
+        "name": "Mojito",
+        "price": 13,
+        "img": "https://assets.afcdn.com/recipe/20180705/80255_w350h250c1cx2774cy1849.jpg"
+    },
+   {
+        "name": "Martini",
+        "price": 8,
+        "img": "https://assets.afcdn.com/recipe/20180827/81970_w350h250c1cx518cy627.jpg"
+    },
+    {
+        "name": "Punch",
+        "price": 9,
+        "img": "https://assets.afcdn.com/recipe/20180705/80349_w350h250c1cx2208cy2125.jpg"
+    },
+    {
+        "name": "Piña Colada",
+        "price": 7,
+        "img": "https://assets.afcdn.com/recipe/20230202/140111_w350h250c1cx757cy572.jpg"
+    },
+   {
+        "name": "Margarita",
+        "price": 10,
+        "img": "https://assets.afcdn.com/recipe/20180705/80288_w350h250c1cx1473cy1313.jpg"
+    }
+]
